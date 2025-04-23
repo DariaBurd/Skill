@@ -1,0 +1,8 @@
+number =
+discount = 30
+sale = input(int(number))
+black-friday = []
+if sale in black-friday:
+    print(f"your discount - {discount}")
+else:
+    print("give me your money!")ZZ
